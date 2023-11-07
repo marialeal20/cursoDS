@@ -7,3 +7,5 @@
 *COMANDO GIT PUSH
 
 *git push 2
+
+*git fetch 
